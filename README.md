@@ -7,7 +7,7 @@ Script that enables changing the tile color of selected Nuke nodes based on the 
 
 ## Demo
 
-Insert gif or link to demo
+https://www.kapwing.com/videos/6391e41c5650ec02c0b62b78
 
 
 ## Screenshots
